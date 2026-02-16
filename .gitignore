@@ -10,6 +10,7 @@
 a.out
 *~
 .#*
+.venv/
 dist/
 pandacan.egg-info/
 obj/
